@@ -1,5 +1,5 @@
 {
-    "name": "@chidumennamdi/countdown-timer",
+    "name": "gu-countdown-timer",
     "version": "0.0.1",
     "description": "A React library used to countdown time",
     "main": "dist/countdown.min.js",
@@ -10,15 +10,11 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/philipszdavido/countdown-timer.git"
+        "url": "git+https://github.com/gulloa/gu-countdown-timer.git"
     },
     "keywords": [],
-    "author": "Chidume Nnamdi <kurtwanger40@gmail.com>",
+    "author": "Chidume Nnamdi",
     "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/philipszdavido/countdown-timer/issues"
-    },
-    "homepage": "https://github.com/philipszdavido/countdown-timer#readme",
     "devDependencies": {
         "babel-core": "^6.26.3",
         "babel-preset-react": "^6.24.1", 
